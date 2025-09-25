@@ -1,0 +1,13 @@
+1. Time and attendance dapat ang name ng module, hindi time track. tsaka late tsaka kung anong oras late, at kung ilan ang total ng late sa isang cutoff everry 15 day dapat ang record time in, late and time out,  . Tsaka dapat hindi automatically may time out at dapat real time din siya at dapat automatic siya pagkascan sa qr code mababato agad siya sa attendance log. Tsaka dapat wala ng input input automatic na agad na late pag lumagpas ng 8:30  am
+
+
+2. Shift plan dapat nakakonek siya sa time and attendance once naka scan na ng qr automatic papasok na agad siya sa attendance log at dapat may grace period pag 8:30 na at 8:31 late na agad
+
+
+3. Time sheet log kailangan may late and time in at time out lang dapat wala ng morning afternoon shift. 
+
+
+4. Leave management dapat hindi tracker, aproved and decline  at kulang ng maternity leave, sa may action magiging view at pag na view na doon makikita ang information ng employee kung anong reason ng leave nya atbsa bottom part nandun ang approved and declined
+
+
+5. Claim and reimburstment lang dapat hindi claim log
